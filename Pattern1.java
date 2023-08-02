@@ -1,3 +1,15 @@
+/*
+Create  this  Pattern:
+*    
+**   
+***  
+**** 
+*****
+
+*/
+
+
+
 class Pattern1 {
     /**
      * @param args
