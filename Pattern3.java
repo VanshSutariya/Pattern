@@ -1,3 +1,13 @@
+/*
+Create this Pattern:
+    *    
+   * *
+  * * *
+ * * * *
+* * * * *
+
+*/
+
 public class Pattern3 {
     /**
      * @param args
