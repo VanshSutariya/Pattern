@@ -1,3 +1,14 @@
+/*
+Create this pattern:
+
+    1    
+   121
+  12321
+ 1234321
+123454321
+
+*/
+
 public class Pattern5 {
     public static void main(String[] args) {
         for (int i = 1; i <= 5; i++) {
