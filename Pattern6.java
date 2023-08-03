@@ -1,3 +1,11 @@
+/*
+Create this pattern:
+ABCDCBA
+ABC DCB
+AB   CB
+A     B
+*/
+
 public class Pattern6 {
     public static void main(String[] args) {
         char k;
