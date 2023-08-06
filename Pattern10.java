@@ -1,3 +1,13 @@
+/*
+create this pattern:
+
+   1   
+  232
+ 34543
+4567654
+
+*/
+
 public class Pattern10 {
     public static void main(String[] args) {
 
