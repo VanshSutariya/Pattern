@@ -1,3 +1,17 @@
+/*
+create this pattern:
+    1
+   12
+  123
+ 1234
+12345
+ 1234
+  123
+   12
+    1
+    
+*/
+
 // public class Pattern12 {
 //     public static void main(String[] args) {
 //         for (int i = 1; i <= 9; i++) {
