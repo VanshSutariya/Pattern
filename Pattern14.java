@@ -1,3 +1,18 @@
+/*
+create this pattern:
+
+*********
+**** ****
+***   ***
+**     **
+*       *
+**     **
+***   ***
+**** ****
+*********
+
+*/
+
 public class Pattern14 {
     public static void main(String[] args) {
         int k = 0;
