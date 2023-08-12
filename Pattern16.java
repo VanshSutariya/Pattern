@@ -1,3 +1,11 @@
+/*
+create this pattern:
+   A1   
+  AB12  
+ ABC123 
+ABCD1234
+
+*/
 public class Pattern16 {
     public static void main(String[] args) {
         for (int i = 1; i <= 4; i++) {
